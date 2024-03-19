@@ -1,0 +1,16 @@
+.but
+{
+    color:white;
+    background-color: red;
+    /* width:30px; */
+}
+.but:hover{
+    transform: scale(1.1);
+    background-color: aqua;
+}
+.i
+{
+    width:180px;
+    height: 60px;
+    margin-left: -30px;
+}
